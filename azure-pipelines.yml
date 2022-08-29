@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 stages:
 - stages: continuous_intergration
-dssplayName : ' Continuous Integration
+displayName : 'Continuous Integration'
 
 steps:
 - script: echo Hello, world!
